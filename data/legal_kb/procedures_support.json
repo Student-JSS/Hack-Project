@@ -1,0 +1,138 @@
+{
+  "source_note": "Curated plain-language summaries for Saakshya. Not legal advice. Helpline numbers and portal names change: verify before relying on them in an emergency.",
+  "entries": [
+    {
+      "id": "KB-09",
+      "title": "How to file an FIR, and what a Zero FIR means",
+      "act": "Bharatiya Nagarik Suraksha Sanhita, 2023 (earlier Code of Criminal Procedure, 1973)",
+      "categories": ["stalking", "domestic_violence", "cyber_harassment", "workplace_sexual_harassment", "other"],
+      "plain_summary": "An FIR is the first written record of a cognizable offence. It can be filed at any police station - even one that does not have jurisdiction - as a Zero FIR, which is then transferred to the right station. A free copy of the FIR must be given to the complainant.",
+      "key_points": [
+        "Take a written complaint with dates, places, names and a list of evidence; attach copies, never originals.",
+        "Ask for a Zero FIR if the police station says the incident happened elsewhere.",
+        "Ask for the FIR number and a free copy of the FIR after it is registered.",
+        "If the police refuse to register an FIR, you can write to the Superintendent of Police or approach the magistrate.",
+        "The FIR provisions moved from section 154 of the CrPC to the BNSS 2023 (around section 173) - confirm the exact number with a lawyer."
+      ],
+      "sources": [
+        {
+          "label": "Bharatiya Nagarik Suraksha Sanhita, 2023 - India Code",
+          "url": "https://www.indiacode.nic.in/handle/123456789/20099"
+        },
+        {
+          "label": "Bureau of Police Research and Development",
+          "url": "https://bprd.nic.in/"
+        }
+      ],
+      "last_reviewed": "2026-09-30",
+      "verify_with_lawyer": true
+    },
+    {
+      "id": "KB-10",
+      "title": "Complaining to the National Commission for Women",
+      "act": "National Commission for Women Act, 1990",
+      "categories": ["workplace_sexual_harassment", "domestic_violence", "cyber_harassment", "stalking", "other"],
+      "plain_summary": "The National Commission for Women accepts complaints online and can follow up with the police or the concerned authority. It is not a court: it cannot punish anyone, but it can push an investigation forward and connect her to support.",
+      "key_points": [
+        "File online at the NCW complaint portal and keep the complaint number.",
+        "Attach a clear timeline and copies of evidence, not the only copies.",
+        "The NCW can ask the police or district administration for a report.",
+        "State commissions for women (SCW) in each state accept similar complaints."
+      ],
+      "sources": [
+        {
+          "label": "National Commission for Women - online complaint",
+          "url": "https://ncwapps.nic.in/onlinecomplaintsv2/frmMain.aspx"
+        },
+        {
+          "label": "National Commission for Women",
+          "url": "https://ncw.nic.in/"
+        }
+      ],
+      "last_reviewed": "2026-09-30",
+      "verify_with_lawyer": true
+    },
+    {
+      "id": "KB-11",
+      "title": "Free legal aid through NALSA and the District Legal Services Authority",
+      "act": "Legal Services Authorities Act, 1987",
+      "categories": ["domestic_violence", "workplace_sexual_harassment", "cyber_harassment", "stalking", "dowry_related", "other"],
+      "plain_summary": "Women are entitled to free legal aid. The National Legal Services Authority (NALSA) funds State and District Legal Services Authorities, which provide a free lawyer and can also help with drafting and court fees.",
+      "key_points": [
+        "Visit or call the District Legal Services Authority (DLSA) at the district court complex.",
+        "Carry an identity document and a short written summary of the facts.",
+        "Women are expressly covered as eligible persons under the Legal Services Authorities Act.",
+        "NALSA's helpline number is 15100; confirm the current number on the NALSA website.",
+        "Legal aid lawyers can appear in magistrate and higher courts."
+      ],
+      "sources": [
+        {
+          "label": "National Legal Services Authority",
+          "url": "https://nalsa.gov.in/"
+        },
+        {
+          "label": "Legal Services Authorities Act, 1987 - India Code",
+          "url": "https://www.indiacode.nic.in/handle/123456789/1926"
+        }
+      ],
+      "last_reviewed": "2026-09-30",
+      "verify_with_lawyer": true
+    },
+    {
+      "id": "KB-12",
+      "title": "Preserving electronic evidence and the court certificate",
+      "act": "Bharatiya Sakshya Adhiniyam, 2023 (earlier Indian Evidence Act, 1872)",
+      "categories": ["cyber_harassment", "stalking", "workplace_sexual_harassment", "other"],
+      "plain_summary": "Screenshots alone can be challenged in court. It helps to keep the original device and account, save the original files rather than only screenshots, and record a hash of each file so any change is detectable. Electronic records usually need a signed certificate when they are produced in court.",
+      "key_points": [
+        "Do not delete the original messages, emails or posts; keep the account active if it is safe to do so.",
+        "Store files with a SHA-256 hash and the time of collection so tampering is detectable.",
+        "In court, electronic records are commonly produced with a certificate signed by the person in charge of the device or system; ask a lawyer for the current format.",
+        "The Evidence Act was replaced by the Bharatiya Sakshya Adhiniyam, 2023 - the certificate provision is around section 63; confirm with a lawyer.",
+        "Export the PDF evidence packet from this app and keep a copy somewhere other than the phone that is at risk."
+      ],
+      "sources": [
+        {
+          "label": "Bharatiya Sakshya Adhiniyam, 2023 - India Code",
+          "url": "https://www.indiacode.nic.in/handle/123456789/20061"
+        },
+        {
+          "label": "NIST - guidance on mobile device evidence",
+          "url": "https://www.nist.gov/itl/ssd/software-quality-group/mobile-device-forensics"
+        }
+      ],
+      "last_reviewed": "2026-09-30",
+      "verify_with_lawyer": true
+    },
+    {
+      "id": "KB-13",
+      "title": "Emergency helplines and one-stop support",
+      "act": "Government of India helplines (Women Helpline Scheme, ERSS, cybercrime)",
+      "categories": ["domestic_violence", "cyber_harassment", "stalking", "workplace_sexual_harassment", "dowry_related", "other"],
+      "plain_summary": "112 is the national emergency number, 181 is the national women's helpline, and 1930 is the cybercrime financial fraud helpline. One Stop Centres give police, medical, legal and shelter support in one place. Numbers can change, so confirm them if the call does not connect.",
+      "key_points": [
+        "Call 112 for immediate danger; it connects to police, fire and ambulance.",
+        "Call 181 for the women's helpline, which can arrange counselling and shelter.",
+        "Call 1930 for cyber financial fraud; report other cyber crimes at cybercrime.gov.in.",
+        "1091 is a police/women assistance helpline in several states; availability varies.",
+        "One Stop Centres (Sakhi Centres) are listed district-wise by the Ministry of Women and Child Development."
+      ],
+      "sources": [
+        {
+          "label": "National emergency response support system (112)",
+          "url": "https://112.gov.in/"
+        },
+        {
+          "label": "Ministry of Women and Child Development - One Stop Centre Scheme",
+          "url": "https://wcd.nic.in/schemes/one-stop-centre-scheme-1"
+        },
+        {
+          "label": "National Cyber Crime Reporting Portal",
+          "url": "https://cybercrime.gov.in/"
+        }
+      ],
+      "last_reviewed": "2026-09-30",
+      "verify_with_lawyer": true
+    }
+  ]
+}

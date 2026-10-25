@@ -1,0 +1,56 @@
+{
+  "source_note": "Curated plain-language summaries for Saakshya. Not legal advice. Timelines are indicative - confirm with a lawyer.",
+  "entries": [
+    {
+      "id": "KB-03",
+      "title": "What counts as sexual harassment at work",
+      "act": "Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013",
+      "categories": ["workplace_sexual_harassment"],
+      "plain_summary": "The POSH Act protects women at the workplace from unwelcome physical contact, demands for sexual favours, sexually coloured remarks, showing pornography, and any other unwelcome physical, verbal or non-verbal conduct of a sexual nature. It also covers work from home, field work and transport provided by the employer.",
+      "key_points": [
+        "The Act lists unwelcome acts such as physical contact, demands or requests for sexual favours, sexually coloured remarks and showing pornography.",
+        "It also covers conduct that creates a hostile work environment, including implicit or explicit promises of preferential treatment.",
+        "The workplace includes the office, remote work, client locations and employer-provided transport.",
+        "The Act protects complainants and witnesses from retaliation and requires confidentiality."
+      ],
+      "sources": [
+        {
+          "label": "POSH Act, 2013 - India Code",
+          "url": "https://www.indiacode.nic.in/handle/123456789/2104"
+        },
+        {
+          "label": "Ministry of Women and Child Development - POSH",
+          "url": "https://wcd.nic.in/act/sexual-harassment-women-workplace-prevention-prohibition-and-redressal-act-2013"
+        }
+      ],
+      "last_reviewed": "2026-09-30",
+      "verify_with_lawyer": true
+    },
+    {
+      "id": "KB-04",
+      "title": "Internal Committee and Local Committee: how the complaint moves",
+      "act": "Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013",
+      "categories": ["workplace_sexual_harassment"],
+      "plain_summary": "Employers with ten or more workers must set up an Internal Committee (IC). If the workplace has fewer workers, or the complaint is against the employer, the district Local Committee (LC) handles it. A written complaint is normally filed within three months of the incident, and the inquiry is meant to finish in about 90 days.",
+      "key_points": [
+        "Ask the HR or the IC chairperson in writing for the Internal Committee's contact details and the complaint format.",
+        "A written complaint is normally filed within three months; the committee can extend this for good reason.",
+        "The inquiry should be completed within about 90 days, and the employer must act on the report within about 60 days.",
+        "If no Internal Committee exists, write to the district officer about the Local Committee.",
+        "Interim relief such as transfer or leave can be requested during the inquiry."
+      ],
+      "sources": [
+        {
+          "label": "POSH Act, 2013 - India Code",
+          "url": "https://www.indiacode.nic.in/handle/123456789/2104"
+        },
+        {
+          "label": "SHe-Box - government complaint portal for workplace harassment",
+          "url": "https://shebox.wcd.gov.in/"
+        }
+      ],
+      "last_reviewed": "2026-09-30",
+      "verify_with_lawyer": true
+    }
+  ]
+}

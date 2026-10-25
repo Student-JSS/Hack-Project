@@ -1,0 +1,55 @@
+{
+  "source_note": "Curated plain-language summaries for Saakshya. Not legal advice. Every entry must be reviewed by a lawyer before being quoted in a real complaint.",
+  "entries": [
+    {
+      "id": "KB-01",
+      "title": "Protection orders, residence orders and money relief",
+      "act": "Protection of Women from Domestic Violence Act, 2005",
+      "categories": ["domestic_violence", "dowry_related"],
+      "plain_summary": "This Act is a civil law that protects women from physical, sexual, verbal, emotional and economic abuse inside a shared household. A magistrate can pass orders that stop the abuse, protect her right to stay in the house, and require maintenance or compensation.",
+      "key_points": [
+        "The Act covers physical, sexual, verbal, emotional and economic abuse, including threats and humiliation.",
+        "A magistrate can pass a protection order under section 18, a residence order under section 19, monetary relief under section 20 and compensation under section 22.",
+        "She can apply herself, or through a Protection Officer, a registered service provider or a lawyer.",
+        "A breach of a protection order is itself an offence, so keep a copy of the order safe."
+      ],
+      "sources": [
+        {
+          "label": "Protection of Women from Domestic Violence Act, 2005 - India Code",
+          "url": "https://www.indiacode.nic.in/handle/123456789/2030"
+        },
+        {
+          "label": "Ministry of Women and Child Development - PWDVA resources",
+          "url": "https://wcd.nic.in/act/protection-women-domestic-violence-act-2005"
+        }
+      ],
+      "last_reviewed": "2026-09-30",
+      "verify_with_lawyer": true
+    },
+    {
+      "id": "KB-02",
+      "title": "Who to contact first under the Domestic Violence Act",
+      "act": "Protection of Women from Domestic Violence Act, 2005",
+      "categories": ["domestic_violence", "dowry_related"],
+      "plain_summary": "Every district has Protection Officers whose job is to help a woman file a Domestic Incident Report and reach the magistrate. Registered service providers (shelters, NGOs) and One Stop Centres can also help, usually free of cost.",
+      "key_points": [
+        "A Protection Officer can record a Domestic Incident Report (DIR) and help file the application in court.",
+        "One Stop Centres (Sakhi Centres) offer police, medical, legal and shelter support in one place.",
+        "She does not need a lawyer to file, but legal aid is free for women through the District Legal Services Authority.",
+        "Keep copies of the DIR and any order; they matter if the situation escalates."
+      ],
+      "sources": [
+        {
+          "label": "Ministry of Women and Child Development - One Stop Centre Scheme",
+          "url": "https://wcd.nic.in/schemes/one-stop-centre-scheme-1"
+        },
+        {
+          "label": "National Commission for Women",
+          "url": "https://ncw.nic.in/"
+        }
+      ],
+      "last_reviewed": "2026-09-30",
+      "verify_with_lawyer": true
+    }
+  ]
+}

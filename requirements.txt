@@ -1,0 +1,23 @@
+# Saakshya - pinned, tested versions (Python 3.11+; verified on Python 3.14)
+# UI
+streamlit==1.66.1
+
+# Agent pipeline
+langgraph==1.2.17
+langgraph-checkpoint-sqlite==3.1.2
+langchain-core==1.7.0
+langchain-google-genai==4.4.2   # default provider (Gemini free tier)
+langchain-openai==1.7.2
+langchain-anthropic==1.7.6
+
+# Storage / documents
+cloudinary==1.46.3
+reportlab==5.1.0
+
+# Core
+python-dotenv==1.2.4
+pydantic==2.14.1
+Pillow==13.0.0
+
+# Tests
+pytest==9.1.1

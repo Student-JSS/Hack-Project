@@ -1,0 +1,108 @@
+{
+  "source_note": "Curated plain-language summaries for Saakshya. India replaced the Indian Penal Code with the Bharatiya Nyaya Sanhita (BNS) in 2023, so section numbers changed. Where the exact number is uncertain this entry says so instead of guessing.",
+  "entries": [
+    {
+      "id": "KB-05",
+      "title": "Stalking, following and criminal intimidation",
+      "act": "Bharatiya Nyaya Sanhita, 2023",
+      "categories": ["stalking", "cyber_harassment"],
+      "plain_summary": "Following a woman, contacting her against her wishes, or monitoring her internet, email or phone use can be stalking under the BNS 2023. Threats intended to cause alarm or force her to do something are criminal intimidation. The BNS replaced the IPC in 2023, so older guides still show the old IPC numbers (for example IPC 354D for stalking).",
+      "key_points": [
+        "Stalking includes following her, repeated unwanted contact, and monitoring her use of the internet, email or phone.",
+        "Criminal intimidation covers threats of injury, reputation or property used to force her to act.",
+        "In the BNS 2023 stalking is covered around section 78 and criminal intimidation around section 351; the exact number should be confirmed by a lawyer before quoting it in a complaint.",
+        "Repeated messages from unknown numbers, showing up at her home or office, and tracking her location are all worth documenting with dates and times."
+      ],
+      "sources": [
+        {
+          "label": "Bharatiya Nyaya Sanhita, 2023 - India Code",
+          "url": "https://www.indiacode.nic.in/handle/123456789/20062"
+        },
+        {
+          "label": "National Crime Records Bureau - crime statistics",
+          "url": "https://ncrb.gov.in/"
+        }
+      ],
+      "last_reviewed": "2026-09-30",
+      "verify_with_lawyer": true
+    },
+    {
+      "id": "KB-06",
+      "title": "Cruelty by a husband or relatives, and dowry demands",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (earlier IPC 498A and 304B)",
+      "categories": ["domestic_violence", "dowry_related"],
+      "plain_summary": "Cruelty by a husband or his relatives - including harassment for dowry - is a criminal offence. Demanding dowry is separately prohibited by the Dowry Prohibition Act, 1961. These criminal routes can run alongside a civil application under the Domestic Violence Act.",
+      "key_points": [
+        "Cruelty includes conduct that drives a woman to suicide or causes grave injury, and harassment aimed at extracting dowry.",
+        "The Dowry Prohibition Act, 1961 makes giving, taking and demanding dowry an offence.",
+        "A criminal complaint and a Domestic Violence Act application can be pursued at the same time.",
+        "Section numbers changed with the BNS 2023: cruelty by a husband or relative was IPC 498A and is now in the BNS - confirm the current number with a lawyer.",
+        "Keep records of demands (messages, call recordings, lists) with dates, because pattern matters."
+      ],
+      "sources": [
+        {
+          "label": "Bharatiya Nyaya Sanhita, 2023 - India Code",
+          "url": "https://www.indiacode.nic.in/handle/123456789/20062"
+        },
+        {
+          "label": "Dowry Prohibition Act, 1961 - India Code",
+          "url": "https://www.indiacode.nic.in/handle/123456789/1616"
+        }
+      ],
+      "last_reviewed": "2026-09-30",
+      "verify_with_lawyer": true
+    },
+    {
+      "id": "KB-07",
+      "title": "Cyber offences: privacy, identity and obscene material",
+      "act": "Information Technology Act, 2000",
+      "categories": ["cyber_harassment"],
+      "plain_summary": "The IT Act covers publishing or transmitting obscene material, capturing or publishing private images without consent, identity theft and violation of privacy. Sending intimate images to others, or threatening to do so, can also attract BNS offences such as criminal intimidation.",
+      "key_points": [
+        "Section 66E covers capturing, publishing or transmitting a private area without consent.",
+        "Section 66C covers identity theft, for example using her name or photos to create fake profiles.",
+        "Sections 67 and 67A cover publishing obscene and sexually explicit material.",
+        "Intimate image threats are also reported as criminal intimidation and can be reported at cybercrime.gov.in.",
+        "Do not delete the original messages or posts before saving the link, username and date."
+      ],
+      "sources": [
+        {
+          "label": "Information Technology Act, 2000 - India Code",
+          "url": "https://www.indiacode.nic.in/handle/123456789/1999"
+        },
+        {
+          "label": "National Cyber Crime Reporting Portal",
+          "url": "https://cybercrime.gov.in/"
+        }
+      ],
+      "last_reviewed": "2026-09-30",
+      "verify_with_lawyer": true
+    },
+    {
+      "id": "KB-08",
+      "title": "Reporting image-based abuse and getting content taken down",
+      "act": "IT Act, 2000 with the IT (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021",
+      "categories": ["cyber_harassment"],
+      "plain_summary": "Image-based abuse can be reported to the platform, to the National Cyber Crime Reporting Portal and to the police. Platforms are expected to act quickly on complaints about non-consensual intimate imagery, and the cybercrime portal has a dedicated category for women and children.",
+      "key_points": [
+        "File a complaint at cybercrime.gov.in and keep the acknowledgement number.",
+        "Use the platform's own reporting flow as well, and save screenshots of the post, profile URL and timestamps before reporting.",
+        "Call 1930 for financial cyber fraud; for other cyber crimes use the portal or the local cyber cell.",
+        "Ask for the content to be preserved, not just removed, so it can be used as evidence later.",
+        "If the images are yours, you can also ask a lawyer about takedown orders and damages."
+      ],
+      "sources": [
+        {
+          "label": "National Cyber Crime Reporting Portal",
+          "url": "https://cybercrime.gov.in/"
+        },
+        {
+          "label": "IT (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021",
+          "url": "https://www.meity.gov.in/content/information-technology-intermediary-guidelines-and-digital-media-ethics-code-rules-2021"
+        }
+      ],
+      "last_reviewed": "2026-09-30",
+      "verify_with_lawyer": true
+    }
+  ]
+}
