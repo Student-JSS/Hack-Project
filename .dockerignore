@@ -1,0 +1,16 @@
+.git
+.github
+.venv
+.venv*
+venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.env
+data/mock_cloudinary/
+data/saakshya.db
+data/saakshya.db-journal
+data/checkpoints.db
+.pytest_cache/
+.ruff_cache/

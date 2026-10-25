@@ -1,0 +1,32 @@
+services:
+  - type: web
+    name: saakshya
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run app.py --server.port $PORT --server.address 0.0.0.0
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: LLM_PROVIDER
+        value: google
+      - key: LLM_MODEL
+        value: gemini-2.5-flash
+      - key: LLM_TEMPERATURE
+        value: "0.2"
+      - key: LLM_ENABLED
+        value: "true"
+      - key: DEMO_MODE
+        value: "false"
+      - key: USE_MOCK_CLOUDINARY
+        value: "false"
+      - key: CLOUDINARY_OCR_ENABLED
+        value: "false"
+      - key: CHECKPOINT_BACKEND
+        value: memory
+      - key: SHARE_DEFAULT_HOURS
+        value: "24"
+      - key: GOOGLE_API_KEY
+        sync: false
+      - key: CLOUDINARY_URL
+        sync: false
